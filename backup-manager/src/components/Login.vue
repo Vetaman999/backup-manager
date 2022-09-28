@@ -3,9 +3,9 @@
             <v-card-title class="justify-center text-h5 font-weight-bold">
                 Gestor de Backup
             </v-card-title>
-            <v-card-title class="mx-auto justify-center text-h6 font-weight-bold">
+            <v-card-subtitle class="d-flex justify-center text-h6 font-weight-bold">
                 Inicio de sesion
-            </v-card-title>
+            </v-card-subtitle>
             <v-text-field v-model="first" label="Usuario" outlined></v-text-field>
 
             <v-text-field outlined v-model="password" :append-icon="show1 ? 'mdi-eye' : 'mdi-eye-off'"
