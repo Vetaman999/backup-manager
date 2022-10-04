@@ -4,6 +4,10 @@
 ```
 npm install
 ```
+## required
+```
+### install the vue client
+```
 
 ### Compiles and hot-reloads for development
 ```
