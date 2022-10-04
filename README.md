@@ -5,7 +5,7 @@
 npm install
 ```
 ## Required
-```
+
 ### install the vue client
 ```
 npm install -g @vue/cli
